@@ -1,5 +1,5 @@
 
-# How to Deploy API using cyclic
+# How to build API using cyclic
 
 ## Create a package in VS Code
 ````
